@@ -1,7 +1,7 @@
 # Hi, I'm Vidhul Dev
 
-This profile contains projects, labs, and technical work completed while exploring Linux, system administration, infrastructure, cloud technologies, and DevOps practices.
+This profile brings together my technical work across Linux, system administration, networking, cloud infrastructure, and DevOps.
 
-Most of the work here is built through hands-on implementation, troubleshooting, and iterative improvement. Alongside project outcomes, I try to document observations, challenges encountered, and approaches used during the process.
+My approach is to put concepts into practice, work through technical challenges, and improve solutions through implementation and troubleshooting. I document the process, the outcomes, and the lessons gained along the way.
 
-Earlier repositories reflect work completed while exploring Python and data-related topics. Current work is focused on Linux, infrastructure, and operational technologies through practical environments and project-based learning.
+Earlier repositories reflect my work with Python and data-related topics. My current focus is on infrastructure, cloud technologies, automation, and DevOps practices, with a commitment to building practical experience, deepening my technical understanding, and continually improving the way I work.
